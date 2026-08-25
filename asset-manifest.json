@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-resume-website/static/css/main.bad0fce5.css",
-    "main.js": "/react-resume-website/static/js/main.743acf05.js",
+    "main.css": "/react-resume-website/static/css/main.28f3ff0f.css",
+    "main.js": "/react-resume-website/static/js/main.ed02e4f6.js",
     "index.html": "/react-resume-website/index.html",
-    "main.bad0fce5.css.map": "/react-resume-website/static/css/main.bad0fce5.css.map",
-    "main.743acf05.js.map": "/react-resume-website/static/js/main.743acf05.js.map"
+    "main.28f3ff0f.css.map": "/react-resume-website/static/css/main.28f3ff0f.css.map",
+    "main.ed02e4f6.js.map": "/react-resume-website/static/js/main.ed02e4f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.bad0fce5.css",
-    "static/js/main.743acf05.js"
+    "static/css/main.28f3ff0f.css",
+    "static/js/main.ed02e4f6.js"
   ]
 }
